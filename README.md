@@ -2,10 +2,8 @@
 https://www.bizinfo.go.kr/see/seea/selectSEEA100.do 에서 원하는 카테고리별로 검색하기
 
 ## Installation
-The package requires python3, selenium, and chromedriver(has to match your chrome version)
-
+The package needs excel file(지원사업조회.xls)
 - [Download excel file](https://www.bizinfo.go.kr/see/seea/selectSEEA100ExcelView.do)
-  
 - Download the repository
 ```
 git clone https://github.com/enter_program
