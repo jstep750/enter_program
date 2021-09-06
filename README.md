@@ -3,8 +3,8 @@ https://www.bizinfo.go.kr/see/seea/selectSEEA100.do 에서 원하는 카테고�
 
 ## Installation
 The package requires python3, selenium, and chromedriver(has to match your chrome version)
-- Download 지원사업조회.xls
-  - https://www.bizinfo.go.kr/see/seea/selectSEEA100ExcelView.do
+
+- [Download excel file](https://www.bizinfo.go.kr/see/seea/selectSEEA100ExcelView.do)
   
 - Download the repository
 ```
