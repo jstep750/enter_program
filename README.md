@@ -1,5 +1,5 @@
 # enter_program
-https://www.bizinfo.go.kr/see/seea/selectSEEA100.do에서 원하는 카테고리별로 검색하기
+https://www.bizinfo.go.kr/see/seea/selectSEEA100.do 에서 원하는 카테고리별로 검색하기
 
 ## Installation
 The package requires python3, selenium, and chromedriver(has to match your chrome version)
