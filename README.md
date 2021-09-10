@@ -18,6 +18,7 @@ pip install xlrd
 
 ### Run Demo
 
+느낌표 뒤 키워드는 반드시 포함, 별표 뒤 키워드는 적어도 하나 포함
 ![image](https://user-images.githubusercontent.com/48945057/132858948-a91eeac7-f3c8-4a3c-93db-d2f6c781a0bc.png)
 
 
