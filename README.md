@@ -17,6 +17,10 @@ pip install xlrd
 ```
 
 ### Run Demo
+
+![image](https://user-images.githubusercontent.com/48945057/132858948-a91eeac7-f3c8-4a3c-93db-d2f6c781a0bc.png)
+
+
 ```
 cd enter_program
 python program2.py 'C:\Users\user\enter_program\지원사업조회.xls' !예비 *서울,경기 *SW,테크,기술,IoT,스마트,과학
